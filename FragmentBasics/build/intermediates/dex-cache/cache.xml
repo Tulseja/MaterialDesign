@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nikhilkumartulseja/workspace/MaterialDesign/FragmentBasics/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="190feaa857f91ed9e95f8c9687d57c0de85cc813">
+        <dex dex="/Users/nikhilkumartulseja/workspace/MaterialDesign/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_95c7a562ee31ebba9c529daf36b5090ba3590ee2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nikhilkumartulseja/Documents/Android_Development/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/nikhilkumartulseja/workspace/MaterialDesign/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_1de11838824265748f8b2b927df6fe5ed8d1976d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nikhilkumartulseja/workspace/MaterialDesign/FragmentBasics/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1c8e40da0edec623d5652c44532f04583a0cc5f6">
+        <dex dex="/Users/nikhilkumartulseja/workspace/MaterialDesign/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_01d56a35f768832d380e5beda33cca7f78f98e52/classes.dex" />
+    </item>
+
+</items>

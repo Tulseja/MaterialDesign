@@ -1,0 +1,1 @@
+CHANGED,/Users/nikhilkumartulseja/workspace/MaterialDesign/FragmentBasics/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/fragments/ArticleFragment.class
